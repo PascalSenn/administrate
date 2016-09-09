@@ -8,6 +8,7 @@ require "administrate/field/number"
 require "administrate/field/polymorphic"
 require "administrate/field/nolink_polymorphic"
 require "administrate/field/string"
+require "administrate/field/select"
 require "administrate/field/text"
 
 module Administrate
